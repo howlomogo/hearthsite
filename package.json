@@ -1,0 +1,28 @@
+{
+  "name": "Add-Contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/howlomogo/Add-Contacts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howlomogo/Add-Contacts/issues"
+  },
+  "homepage": "https://github.com/howlomogo/Add-Contacts",
+  "devDependencies": {
+    "angular": "^1.4.3",
+    "body-parser": "^1.13.2",
+    "bootstrap": "^3.3.5",
+    "express": "^4.13.1",
+    "gulp": "^3.9.0",
+    "mongojs": "^1.0.2"
+  }
+}

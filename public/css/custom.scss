@@ -1,0 +1,50 @@
+body {
+background-image: url('../img/main-bg.jpg');
+}
+
+
+
+
+
+
+// Index
+.main-heading {
+	padding: 5em 0em;
+}
+
+.main-nav {
+	background-color: rgba(0,0,0,0.5);
+	margin-bottom: 2em;
+}
+
+.main-content {
+	background-color: rgba(0,0,0,0.5);
+}
+
+
+
+// Navigation
+
+.navbar-default {
+	background-image: none !important;
+	background-color: transparent !important;
+	border-radius: 0px !important;
+	border: none !important;
+
+	a {
+		color: #fff !important;
+	}
+	a:hover {
+		color: red;
+		background-color: transparent !important;
+	}
+
+	color: #fff !important;
+	margin-bottom: 0px;
+}
+
+
+// Helpers
+.text-center {
+	text-align: center;
+}
