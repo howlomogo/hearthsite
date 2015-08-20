@@ -1,7 +1,7 @@
 {
-  "name": "Add-Contacts",
+  "name": "Hearthsite",
   "version": "1.0.0",
-  "description": "",
+  "description": "A hearthstone stats site.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/howlomogo/Add-Contacts.git"
   },
-  "author": "",
+  "author": "Matt Pilcher",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/howlomogo/Add-Contacts/issues"
