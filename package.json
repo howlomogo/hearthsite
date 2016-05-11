@@ -1,7 +1,7 @@
 {
   "name": "Hearthsite",
   "version": "1.0.0",
-  "description": "A hearthstone stats site.",
+  "description": "A hearthusers stats site.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/howlomogo/Add-Contacts",
   "devDependencies": {
-    "angular": "^1.4.3",
+    "angular": "^1.4.4",
+    "angular-route": "^1.4.4",
     "body-parser": "^1.13.2",
     "bootstrap": "^3.3.5",
     "express": "^4.13.1",
